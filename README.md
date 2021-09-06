@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently a Student of Institute of Engineering & Management ,Kolkata
+- 🔭 I’m currently a Final Year Engineering Student at Institute of Engineering & Management ,Kolkata
 - 🌱 I’m currently learning  Machine Learning.
 - 👯 I’m looking to collaborate on Technical Projects related to Machine Learning.
 - 🤔 I’m looking for help with Projects combining two Tech Stacks (Machine Learning and Web Development)
