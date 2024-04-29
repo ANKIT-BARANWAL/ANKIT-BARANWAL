@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as a "Software Engineer" at Capgemini,Hyderabad.
+- 🔭 I’m currently working as a "Member of Technical Staff" at Oracle,Hyderabad.
 - 🏫 I have completed my B.Tech in Computer Science Engineering from Institute of Engineering & Management ,Kolkata
 - 🌱 I’m currently working in Java Spring Boot Development.
 - 👯 I’m looking to collaborate on Technical Projects related to Software Engineering.
